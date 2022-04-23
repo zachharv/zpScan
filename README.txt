@@ -25,13 +25,16 @@
 
 
        A couple of helpful notes:
+       
        zpScan requires admin/sudo/root priveleges for its scans
-       zpScan requires both the python-nmap package and the tabulate package to function
-       You can install these packages on Windows and Linux by typing "pip install python-nmap" and "pip install tabulate" into your terminal
+       zpScan requires both the python-nmap package and the tabulate package to function       
+       You can install these packages on Windows and Linux by typing "pip install python-nmap" and "pip install tabulate"
+       into your terminal
        
        Usage of the vulnerability scan is dependent on an internet connection
+       
        You will want the terminal to be in full screen and to use a relatively low zoom in your terminal, possibly none
-           as the tables come out pretty big.
+       as the tables come out pretty big.
        
        Also it is worth mentioning that neither of the creators of zpScan condone using our tool for anything illegal.
        Only scan networks/hosts that you have permission to scan.
