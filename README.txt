@@ -40,4 +40,4 @@
 
        We hope that you enjoy our tool, there is more to come.
 
-      Authored by Pamela Tobon and Zach Harvey
+       Authored by Pamela Tobon and Zach Harvey
