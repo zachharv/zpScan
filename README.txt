@@ -39,3 +39,5 @@
        Only scan networks/hosts that you have permission to scan.
 
        We hope that you enjoy our tool, there is more to come.
+
+      Authored by Pamela Tobon and Zach Harvey
